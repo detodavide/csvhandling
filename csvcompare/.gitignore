@@ -11,9 +11,11 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+compvenv/
 .Python
-csvcompare/compvenv/
-csvutils/uvenv
+results/
+data/
+uvenv/
 combvenv/
 combvenv
 build/
