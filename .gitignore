@@ -14,8 +14,8 @@ __pycache__/
 .Python
 csvcompare/compvenv/
 csvutils/data/
-csvutils/results
-csvutils/uvenv
+csvutils/results/
+csvutils/uvenv/
 combvenv/
 combvenv
 build/
