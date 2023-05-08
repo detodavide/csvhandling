@@ -13,6 +13,8 @@ __pycache__/
 # Distribution / packaging
 .Python
 csvcompare/compvenv/
+csvutils/data/
+csvutils/results
 csvutils/uvenv
 combvenv/
 combvenv
